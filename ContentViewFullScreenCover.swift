@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  SwiftUI Tutorial: Make your own Expandable List from scratch
+//  SwiftUI Tutorial: Creating Full Screen Modal
 //
-//  Created by Alvin Sosangyo on 08/03/22.
+//  Created by Alvin Sosangyo on 08/13/22.
 //
 
 import SwiftUI
